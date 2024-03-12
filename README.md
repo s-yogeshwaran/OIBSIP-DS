@@ -1,11 +1,12 @@
 # OIBSIP
 **Batch - March Phase 1 AICTE OIB-SIP 2024**. 
 
-1st March 2024 - Internship start date.  
+`1st March 2024 - Internship start date.`  
 5th April 2024 - Last date of project submission.
 
-Task list - https://www.canva.com/design/DAFSZMvBiCI/d8sj_Z-sTrmOYK_pTlvb9w/view?utm_content=DAFSZMvBiCI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#31
-Task Submission Form - bit.ly/AICTE_OIBSIP_MarchP1Submission
+**Task list** - https://www.canva.com/design/DAFSZMvBiCI/d8sj_Z-sTrmOYK_pTlvb9w/view?utm_content=DAFSZMvBiCI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#31
+
+**Task Submission Form** - [bit.ly/AICTE_OIBSIP_MarchP1Submission](http://bit.ly/AICTE_OIBSIP_MarchP1Submission)
 
 ## Task 1 - IRIS FLOWER CLASSIFICATION
 
