@@ -18,6 +18,7 @@ measurements of the iris species and classify them.
 Although the Scikit-learn library provides a [dataset](https://www.kaggle.com/datasets/saurabh00007/iriscsv) for iris flower classification, you can also
 download the same dataset from here for the task of iris flower classification with Machine
 Learning. 
+
 DOWNLOAD DATASET FROM [HERE](https://www.kaggle.com/datasets/saurabh00007/iriscsv)
 
 ## Task 2 - UNEMPLOYMENT ANALYSIS WITH PYTHON
@@ -26,6 +27,7 @@ Unemployment is measured by the unemployment rate which is the number of people
 who are unemployed as a percentage of the total labour force. We have seen a sharp
 increase in the unemployment rate during Covid-19, so analyzing the unemployment rate
 can be a good data science project.
+
 DOWNLOAD DATASET FROM [HERE](https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india)
 
 ## Task 3 - CAR PRICE PREDICTION WITH MACHINE LEARNING
@@ -34,6 +36,7 @@ The price of a car depends on a lot of factors like the goodwill of the brand of
 features of the car, horsepower and the mileage it gives and many more. Car price
 prediction is one of the major research areas in machine learning. So if you want to learn
 how to train a car price prediction model then this project is for you.
+
 DOWNLOAD DATASET FROM [HERE](https://www.kaggle.com/datasets/vijayaadithyanvg/car-price-predictionused-cars)
 
 ## Task 4 - EMAIL SPAM DETECTION WITH MACHINE LEARNING
@@ -44,6 +47,7 @@ messages, scams, or most dangerously, phishing content.
 In this Project, use Python to build an email spam detector. Then, use machine learning to
 train the spam detector to recognize and classify emails into spam and non-spam. Let’s get
 started!
+
 DOWNLOAD DATASET FROM [HERE](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
 ## Task 5 - SALES PREDICTION USING PYTHON
@@ -54,6 +58,7 @@ advertise for, or the platform you are advertising on about your product.
 Typically, a product and service-based business always need their Data Scientist to predict
 their future sales with every step they take to manipulate the cost of advertising their
 product. So let’s start the task of sales prediction with machine learning using Python.
+
 DOWNLOAD DATASET FROM [HERE](https://www.kaggle.com/datasets/bumba5341/advertisingcsv)
 
 
